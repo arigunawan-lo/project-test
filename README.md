@@ -1,2 +1,2 @@
-# project-test
-web kursus komputer
+# Postalcodes
+info kodepos seluruh indonesia
